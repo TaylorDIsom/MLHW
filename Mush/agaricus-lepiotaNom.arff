@@ -1,27 +1,27 @@
 @relation 'mushrooms-weka.filters.unsupervised.attribute.Reorder-R2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,1'
 
-@attribute cap-shape string
-@attribute cap-surface string
-@attribute cap-color string
-@attribute bruises string % {t,f}
-@attribute odor string
-@attribute gill-attachment string
-@attribute gill-spacing string
-@attribute gill-size string
-@attribute gill-color string
-@attribute stalk-shape string
-@attribute stalk-root string
-@attribute stalk-surface-above-ring string
-@attribute stalk-surface-below-ring string
-@attribute stalk-color-above-ring string
-@attribute stalk-color-below-ring string
-@attribute veil-type string
-@attribute veil-color string
-@attribute ring-number string
-@attribute ring-type string
-@attribute spore-print-color string
-@attribute population string
-@attribute habitat string
+@attribute cap-shape {b,c,x,f,k,s}
+@attribute cap-surface {f,g,y,s}
+@attribute cap-color {n,b,c,g,r,p,u,e,w,y}
+@attribute bruises {t,f}
+@attribute odor {a,l,c,y,f,m,n,p,s}
+@attribute gill-attachment {a,d,f,n}
+@attribute gill-spacing {c,w,d}
+@attribute gill-size {b,n}
+@attribute gill-color {k,n,b,h,g,r,o,p,u,e,w,y}
+@attribute stalk-shape {e,t}
+@attribute stalk-root {b,c,u,e,z,r,'?'}
+@attribute stalk-surface-above-ring {f,y,k,s}
+@attribute stalk-surface-below-ring {f,y,k,s}
+@attribute stalk-color-above-ring {n,b,c,g,o,p,e,w,y}
+@attribute stalk-color-below-ring {n,b,c,g,o,p,e,w,y}
+@attribute veil-type {p,u}
+@attribute veil-color {n,o,w,y}
+@attribute ring-number {n,o,t}
+@attribute ring-type {c,e,f,l,n,p,s,z}
+@attribute spore-print-color {k,n,b,h,r,o,u,w,y}
+@attribute population {a,c,n,s,v,y}
+@attribute habitat {g,l,m,p,u,w,d}
 @attribute class {e,p}
 
 @data

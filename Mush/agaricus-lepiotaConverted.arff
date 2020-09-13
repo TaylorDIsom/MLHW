@@ -10,7 +10,7 @@
 @attribute gill-spacing string
 @attribute gill-size string
 @attribute gill-color string
-@attribute stalk-color string
+@attribute stalk-shape string
 @attribute stalk-root string
 @attribute stalk-surface-above-ring string
 @attribute stalk-surface-below-ring string
