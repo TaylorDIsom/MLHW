@@ -11,7 +11,7 @@
 @attribute pH numeric
 @attribute sulphates numeric
 @attribute alcohol numeric
-@attribute class numeric
+@attribute quality numeric
 
 @data
 7.4,0.7,0,1.9,0.076,11,34,0.9978,3.51,0.56,9.4,5

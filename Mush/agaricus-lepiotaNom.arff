@@ -22,7 +22,7 @@
 @attribute spore-print-color {k,n,b,h,r,o,u,w,y}
 @attribute population {a,c,n,s,v,y}
 @attribute habitat {g,l,m,p,u,w,d}
-@attribute class {e,p}
+@attribute edible-or-poisonous {e,p}
 
 @data
 x,s,y,t,a,f,c,b,k,e,c,s,s,w,w,p,w,o,p,n,n,g,e
